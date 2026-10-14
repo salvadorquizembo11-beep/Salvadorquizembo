@@ -1,0 +1,53 @@
+Body {
+    Margin:0px;
+    Font-family: Arial, sans-serif;
+    Background-color: #f2f2f2;
+    color: #003366;
+    padding: 0px;
+}
+
+Header {
+    Background-color: #003366;
+    Color: white;
+    Text-align: center;
+    Padding: 25px;
+}
+
+Nav {
+    Background-color: #0055a5;
+    Text-align: center;
+    Padding: 15px;
+}
+
+Nav a {
+    Color:white;
+    margin-top: 17px;
+    Text-decoration: none;
+    Margin: 15px;
+}
+
+/* Secções */
+Section {
+    Background-color: white;
+    Margin: 20px;
+    Padding: 20px;
+    Border-radius: 15px;
+}
+
+/* Cursos */
+.curso {
+    Background-color: #e6f0ff;
+    Padding: 15px;
+    Margin: 10px 0;
+    Border-radius: 15px;
+}
+
+
+/* Rodapé */
+Footer {
+    Background-color: #003366;
+    Color: white;
+    Text-align: center;
+    Padding: 15px;
+    margin: 12px;
+}
